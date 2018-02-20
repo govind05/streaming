@@ -1,0 +1,5 @@
+/streaming-website/node_modules
+/streaming-website/test/unit/coverage/
+/streaming-server/audio
+/streaming-server/videos
+/streaming-server/node_modules
